@@ -1,0 +1,14 @@
+C:\Users\АйткожаЖ\source\repos\para2\para2\bin\Debug\para2.exe.config
+C:\Users\АйткожаЖ\source\repos\para2\para2\bin\Debug\para2.exe
+C:\Users\АйткожаЖ\source\repos\para2\para2\bin\Debug\para2.pdb
+C:\Users\АйткожаЖ\source\repos\para2\para2\obj\Debug\para2.csprojAssemblyReference.cache
+C:\Users\АйткожаЖ\source\repos\para2\para2\obj\Debug\para2.csproj.CoreCompileInputs.cache
+C:\Users\АйткожаЖ\source\repos\para2\para2\obj\Debug\para2.exe
+C:\Users\АйткожаЖ\source\repos\para2\para2\obj\Debug\para2.pdb
+C:\Users\jan26\source\repos\para2\para2\bin\Debug\para2.exe.config
+C:\Users\jan26\source\repos\para2\para2\bin\Debug\para2.exe
+C:\Users\jan26\source\repos\para2\para2\bin\Debug\para2.pdb
+C:\Users\jan26\source\repos\para2\para2\obj\Debug\para2.csprojAssemblyReference.cache
+C:\Users\jan26\source\repos\para2\para2\obj\Debug\para2.csproj.CoreCompileInputs.cache
+C:\Users\jan26\source\repos\para2\para2\obj\Debug\para2.exe
+C:\Users\jan26\source\repos\para2\para2\obj\Debug\para2.pdb
